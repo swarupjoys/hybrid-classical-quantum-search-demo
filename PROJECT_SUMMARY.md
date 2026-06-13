@@ -1,5 +1,11 @@
 # Project Summary
 
+| Project Information | Details |
+|---|---|
+| **Prepared by** | **Swarup Sudulaganti** |
+| **Designation** | **Professor, AI & DS** |
+| **LinkedIn** | [linkedin.com/in/sudulaganti](https://www.linkedin.com/in/sudulaganti/) |
+
 ## Title
 
 **Hybrid Classical–Quantum Search Demo: Understanding Grover's Algorithm Through a Castle-Room Example**

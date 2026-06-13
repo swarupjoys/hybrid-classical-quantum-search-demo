@@ -1,5 +1,12 @@
 # Teaching Guide
 
+| Teaching Resource Information | Details |
+|---|---|
+| **Prepared by** | **Swarup Sudulaganti** |
+| **Designation** | **Professor, AI & DS** |
+| **Department** | **AI & DS** |
+| **LinkedIn** | [linkedin.com/in/sudulaganti](https://www.linkedin.com/in/sudulaganti/) |
+
 ## Suggested Use
 
 This project can be used as an introductory demonstration after students have learned:

@@ -1,5 +1,14 @@
 # Hybrid Classical–Quantum Search Demo
 
+## Understanding Grover's Algorithm Through a Castle-Room Example
+
+| Project Information | Details |
+|---|---|
+| **Prepared by** | **Swarup Sudulaganti** |
+| **Designation** | **Professor, AI & DS** |
+| **LinkedIn** | [linkedin.com/in/sudulaganti](https://www.linkedin.com/in/sudulaganti/) |
+| **Implementation** | Python, Qiskit, Qiskit Aer and Jupyter Notebook |
+
 A beginner-friendly Qiskit teaching project that explains Grover's quantum-search algorithm through a simple castle-room analogy.
 
 ## Project Idea
@@ -188,10 +197,11 @@ Possible follow-up activities include:
 - running a suitable circuit on quantum hardware;
 - using Qiskit's reusable Grover-operator utilities after understanding the manual circuit.
 
-## Author
+## Prepared By
 
 **Swarup Sudulaganti**  
-Assistant Professor — Artificial Intelligence and Data Science
+**Professor, AI & DS**  
+LinkedIn: [linkedin.com/in/sudulaganti](https://www.linkedin.com/in/sudulaganti/)
 
 ## References
 
